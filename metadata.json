@@ -1,0 +1,6 @@
+{
+  "name": "Twilio Webhook Call Forwarding",
+  "description": "FastAPI application that receives incoming calls via Twilio Voice, forwards them, and automatically sends follow-up SMS text notifications on missed calls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
